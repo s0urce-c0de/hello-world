@@ -1,0 +1,1 @@
+document.body.append(Object.assign(document.createElement("span"),{textContent: "Hello World!"}))

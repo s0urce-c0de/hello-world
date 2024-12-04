@@ -1,0 +1,1 @@
+document.body.appendChild(Object.assign(document.createElement("p"), {textContent: "Hello World!"}))
